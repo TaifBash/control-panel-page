@@ -1,2 +1,7 @@
 # control-panel-page
-Building a control panel page and reading data from page
+IoT, Data Science tasks
+
+Building a control page for the robot's directions and recording the data in a database from the control page
+
+* linked the control page and transferred the data to the database by Taif Basheikh.
+* The page was designed by WedadAlqithm.
